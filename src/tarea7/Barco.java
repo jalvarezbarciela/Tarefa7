@@ -2,7 +2,7 @@ package tarea7;
 
 /**
  *
- * @author ivansteuerberg
+ * @author jalvarezbarciela
  */
 public abstract class Barco {
 

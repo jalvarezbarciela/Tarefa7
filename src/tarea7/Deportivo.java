@@ -2,7 +2,7 @@ package tarea7;
 
 /**
  *
- * @author ivansteuerberg
+ * @author jalvarezbarciela
  */
 public class Deportivo extends Barco {
 

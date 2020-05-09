@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author ivansteuerberg
+ * @author jalvarezbarciela
  */
 public class Tarea7 {
 
